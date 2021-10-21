@@ -1,0 +1,28 @@
+.done
+{
+    text-decoration: line-through;
+}
+
+input{
+    max-width: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+
+ul{
+    max-width: 400px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: auto;
+    list-style-type: none;
+    
+    
+}
